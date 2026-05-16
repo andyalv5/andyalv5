@@ -1,4 +1,4 @@
-<h1 align="center" style="display: none;"></h1>
+
 <div align="center">
 <h1 align ="center"> Hola Soy Andy Alvarez 👋</h1>
 </div>
