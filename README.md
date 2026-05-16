@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+<h1 align ="center"> Hola Soy Andy Alvarez 👋</h1>
+</div>
+<img src="https://i.imgur.com/WyOJ43g.jpeg">
 <!--
 **andyalv5/andyalv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
